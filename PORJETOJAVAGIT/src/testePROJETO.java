@@ -7,6 +7,8 @@ public class testePROJETO {
 		
 		System.out.println("TEM QUE ESTAR NA SEGUNDA ENTREGA!!");
 		
+		System.out.println("TEM QUE ESTAR NA TERCEIRA ENTREGA!!");
+		
 	}
 
 }
