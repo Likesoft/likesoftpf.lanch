@@ -17,6 +17,8 @@ public class testePROJETO {
 		
 		System.out.println("Vai pra nova linha 2 !!!");
 		
+		System.out.println("Vai pra outra!");
+		
 	}
 
 }
