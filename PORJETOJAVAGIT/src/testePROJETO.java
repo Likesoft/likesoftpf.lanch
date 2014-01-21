@@ -5,6 +5,8 @@ public class testePROJETO {
 		
 		System.out.println("Hello World Git!!");
 		
+		System.out.println("TEM QUE ESTAR NA SEGUNDA ENTREGA!!");
+		
 	}
 
 }
