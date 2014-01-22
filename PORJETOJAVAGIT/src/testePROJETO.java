@@ -27,6 +27,8 @@ public class testePROJETO {
 		
 		System.out.println("MUDEIII NA TAREFA 5");
 		
+		System.out.println("Tarefa 7 com variasss modificação assiciada");
+		
 		
 		
 	}
